@@ -12,6 +12,8 @@ Existen diversos factores que afectan la dirección e intensidad de un incendio 
 
 ## Diagrama eléctrico
 
-## Impresión en 3D
+<img src="https://user-images.githubusercontent.com/111079577/188990198-761c790a-b3dc-4833-aca3-4b26ff255961.svg">
 
 ## Fotografías del sistema
+
+
