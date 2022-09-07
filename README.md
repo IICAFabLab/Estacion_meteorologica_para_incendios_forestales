@@ -15,5 +15,7 @@ Existen diversos factores que afectan la dirección e intensidad de un incendio 
 <img src="https://user-images.githubusercontent.com/111079577/188990198-761c790a-b3dc-4833-aca3-4b26ff255961.svg">
 
 ## Fotografías del sistema
+<img src="https://user-images.githubusercontent.com/111079577/188991779-43ace396-6cda-4f26-bcae-28887abe15a0.jpg" height = 700> <img src="https://user-images.githubusercontent.com/111079577/188991785-c447c4e6-2f88-4944-9764-9bd6c7ed5467.jpg" height = 700>
+<img src="https://user-images.githubusercontent.com/111079577/188991802-97e2fb62-43af-44bc-9fe1-ad96feec7f99.jpg" height=700>
 
 
