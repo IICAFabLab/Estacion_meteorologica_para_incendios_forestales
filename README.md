@@ -6,7 +6,7 @@ Existen diversos factores que afectan la dirección e intensidad de un incendio 
 ## Componentes
 
 - Cámara de grabación: permite tener una vista horizontal a 6 metros de altura del lugar en donde se coloca la estación.
-- Sensor de humedad y temperatura DHT22.
+- Sensor de humedad y temperatura DHT21.
 - Anemómetro: mide la velocidad del viento
 - Veleta: mide la dirección del viento
 
